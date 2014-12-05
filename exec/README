@@ -1,0 +1,8 @@
+List of external javascript libraries used:
+	- d3.js Copyright 2013 Mike Bostock. Licensed under BSD license
+	- crossfilter.js: Copyright 2012 Square, Inc. Licensed under Apache license
+	- dc.js Licensed under Apache license V2
+	- jquery-1.11.1.js: Copyright 2005, 2014 jQuery Foundation, Inc. Licensed under MIT
+	- bootstrap.js: Copyright 2011-2014 Twitter, Inc. Licensed under MIT 
+	- jquery.dynatable.js: Copyright (c) 2014 Steve Schwartz Dual licensed under the AGPL
+	 and Proprietary licenses
